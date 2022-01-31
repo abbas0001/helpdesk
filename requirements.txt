@@ -1,0 +1,5 @@
+django~=3.2.6
+djangowidget_tweaks=1.4.8
+django-simple-history=3.0.0
+djangorestframework
+sqlite3
